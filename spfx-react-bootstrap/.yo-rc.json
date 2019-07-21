@@ -1,0 +1,12 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.8.2",
+    "libraryName": "spfx-react-bootstrap",
+    "libraryId": "92479113-f0e8-417f-abae-d1790be3cd25",
+    "packageManager": "npm",
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
